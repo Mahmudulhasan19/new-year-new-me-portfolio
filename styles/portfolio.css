@@ -125,3 +125,75 @@ top: 1416px;
     position: absolute;
 
   }
+  .section-container{
+    display: flex;
+    gap: 86px;
+  }
+  .my-plans{
+    margin-top: 938px;
+    
+  }
+  .section-title{
+    text-align: center;
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+margin-top: 130px;
+padding-bottom: 300px;
+
+  }
+  .plan-title{
+    position: absolute;
+width: 270px;
+height: 35px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+color: #151414;
+
+
+
+  }
+.plan{
+    padding-left: 200px;
+    padding-top: 227px;
+
+    
+}
+.plan-discrip{
+    position: absolute;
+width: 181px;
+height: 29px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+
+color: #737272;
+padding-top: 30px;
+
+}
+.gradient{
+    background-image: url(../images/gradient2.png);
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2222.26px;
+
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+}
+  
